@@ -1,5 +1,10 @@
- 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+DevBookLog+%F0%9F%9A%80;Happy+coding+%26+learning!)](https://git.io/typing-svg)
+  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+DevBookLog+%F0%9F%9A%80;Happy+coding+%26+learning!" alt="Typing SVG" />
+  </a>
+</div>
+
 
 <br />
 
