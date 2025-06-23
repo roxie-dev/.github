@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td>
-     <div align="center">    <a href="https://github.com/roxie-dev/NestJS-Book-Study">
+     <div align="center">    <a href="https://github.com/roxie-dev/Ji-Lag-Bang">
         <img width="200" alt="NestJS Book" src="https://github.com/user-attachments/assets/a589686d-75cc-420b-b90d-4de2cbb1176a"/>
       </a></div>
     </td>
