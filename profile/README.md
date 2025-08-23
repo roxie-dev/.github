@@ -16,12 +16,12 @@
   <tr>
      <td>
      <div align="center">    <a href="https://github.com/roxie-dev/Python-Book-Study">
-        <img width="200" alt="NestJS Book" src="https://github.com/user-attachments/assets/365a8fff-e5df-4192-8aff-dbda09468713"/>
+        <img width="200" alt="Python Book" src="https://github.com/user-attachments/assets/365a8fff-e5df-4192-8aff-dbda09468713"/>
       </a></div>
     </td>
     <td>
      <div align="center">    <a href="https://github.com/roxie-dev/Ji-Lag-Bang">
-        <img width="200" alt="NestJS Book" src="https://github.com/user-attachments/assets/a589686d-75cc-420b-b90d-4de2cbb1176a"/>
+        <img width="200" alt="Ji-Lag-Bang" src="https://github.com/user-attachments/assets/a589686d-75cc-420b-b90d-4de2cbb1176a"/>
       </a></div>
     </td>
     <td>
