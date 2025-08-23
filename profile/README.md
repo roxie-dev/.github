@@ -38,19 +38,20 @@
   <tr>
      <td align="center">
       <a href="https://shields.io/">
-        <img src="https://img.shields.io/badge/START-2025/08/25-blue.svg" alt="Start Date">
+        <img src="https://img.shields.io/badge/START-2025/08/27-blue.svg" alt="Start Date">
       </a>
       <a href="https://github.com/Naereen/badges">
-        <img src="https://img.shields.io/badge/END-~-green.svg" alt="End Date">
+        <img src="https://img.shields.io/badge/END-2025/10/01-green.svg" alt="End Date">
       </a>
     </td>
     <td align="center">
-      <a href="https://shields.io/">
+<!--       <a href="https://shields.io/">
         <img src="https://img.shields.io/badge/START-2025/07/01-blue.svg" alt="Start Date">
       </a>
       <a href="https://github.com/Naereen/badges">
         <img src="https://img.shields.io/badge/END-~-green.svg" alt="End Date">
-      </a>
+      </a> -->
+진행 예정
     </td>
     <td align="center">
       <a href="https://shields.io/">
