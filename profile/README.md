@@ -14,11 +14,11 @@
 <div align="center">   
 <table>
   <tr>
-     <td>
+<!--      <td>
      <div align="center">    <a href="https://github.com/roxie-dev/Python-Book-Study">
         <img width="200" alt="Python Book" src="https://github.com/user-attachments/assets/365a8fff-e5df-4192-8aff-dbda09468713"/>
       </a></div>
-    </td>
+    </td> -->
     <td>
      <div align="center">    <a href="https://github.com/roxie-dev/Ji-Lag-Bang">
         <img width="200" alt="Ji-Lag-Bang" src="https://github.com/user-attachments/assets/a589686d-75cc-420b-b90d-4de2cbb1176a"/>
@@ -36,14 +36,14 @@
     </td>
   </tr>
   <tr>
-     <td align="center">
+<!--      <td align="center">
       <a href="https://shields.io/">
         <img src="https://img.shields.io/badge/START-2025/08/27-blue.svg" alt="Start Date">
       </a>
       <a href="https://github.com/Naereen/badges">
         <img src="https://img.shields.io/badge/END-2025/10/01-green.svg" alt="End Date">
       </a>
-    </td>
+    </td> -->
     <td align="center">
 <!--       <a href="https://shields.io/">
         <img src="https://img.shields.io/badge/START-2025/07/01-blue.svg" alt="Start Date">
